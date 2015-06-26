@@ -1,6 +1,6 @@
 # GvSlideShow
 Just another js slideshow.
-只是又一个js幻灯片。
+现成的js幻灯片很多,只是想再写一个自己用起来顺手的。
 
 sample code:
 
